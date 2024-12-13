@@ -1,0 +1,4 @@
+baseURL = "/"
+title = "integnotes"
+theme = "terminal"
+
